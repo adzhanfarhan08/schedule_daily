@@ -1,4 +1,4 @@
-# jadwal_kuliah
+# Schedule Daily
 
 A new Flutter project.
 
