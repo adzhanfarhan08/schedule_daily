@@ -1,16 +1,17 @@
 # Schedule Daily
 
-A new Flutter project.
+Scheduling App is a mobile application built with Flutter designed to help users efficiently plan and manage their daily schedules.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- Add Schedule: Create a new schedule with details such as activity name, time, and description.
+- Edit & Delete Schedule: Easily update or remove schedules.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter: Main framework for app development.
+- Shares Preferences
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## For any questions, contact us at:
+
+Email: adzhanfarhan@gmail.com
